@@ -1,0 +1,7 @@
+What runs javaScript outside the browser;, for javascript to run outside the browser, it will need a javascript engine, or a runtime environment e.g Node.js
+Name 5 things Javascript can do; a) it can be used to make a website interactive b) it can be usd in mobile app development c) it can be used in making games d) it can be used at the backend, for backend web development e) finally it can be used in desktop applications.
+When was ECMAScript first released? it was first released in june 1997.
+how do you log to the console? console.log("")
+What tech field do you use JavaScript? a) Front-end web development b) back-end web development c) mobile app development
+State the difference between the Statically typed and dynamicaly typed programming language and give examples; We call a language “statically-typed” if it follows type checking during compilation. So, every detail about the variables and all the data types must be known before we do the compiling process, some of the examples are: Java, C++, C, Fotran e.t.c. while we call a language “dynamically typed” if type checking takes place while the program runs (run-time). In this type of language, there is no need to specify the data type of each variable while writing code. some of the examples are: Python, Javascript, Ruby, Perl, PHP e.t.c.
+Differentiate between the dataypes null and undefined; Null indicates the absence of a value for a variable. Undefined indicates the absence of the variable itself.
